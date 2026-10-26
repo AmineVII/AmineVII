@@ -1,16 +1,19 @@
-## Hi there 👋
+# Salut, je suis Amine 👋
 
-<!--
-**AmineVII/AmineVII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant au baccalauréat en informatique à l'UQTR, intéressé par la **cybersécurité** et l'**infonuagique**.
 
-Here are some ideas to get you started:
+## 🔧 Ce que je fais en ce moment
+- Projets en C sous Linux (processus, tubes, redirections)
+- Développement en C#
+- Apprentissage de la cybersécurité sur TryHackMe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+C · C# · Python · Linux · Bash · Git
+
+## 🎯 Objectifs
+- Certification ISC² CC
+- Certification cloud (AZ-900 ou AWS Cloud Practitioner)
+
+## 📫 Me joindre
+- LinkedIn : (www.linkedin.com/in/aminelhor)
+- Courriel : aminelhor09@gmail.com
